@@ -1,5 +1,7 @@
 # privacy_awareness_twine
 
+![Gathered Information](/sat_photos/gathered_info.png)
+
 ## Premise
 Using Twine 2 as a storytelling tool to increase privacy awareness among Gen Z.
 
@@ -16,6 +18,10 @@ Research conducted by Alemany et al. (2019) shows that an effective way to creat
 
 ## Project 
 The data is collected by using TikTok’s onboarding and basic usage as an example. The users follow the steps and interaction TikTok provides, and data will be collected along the experience.
+
+![Twine Flow](/sat_photos/twine_balloon.png)
+![Predicted Information](/sat_photos/predictions.png)
+![Gathered Information](/sat_photos/gathered_info.png)
 
 ## Conclusion
 
